@@ -5,3 +5,17 @@ teste de versionamento
 
 ( ?° ?? ?°)
 pra aparecer no commit
+
+git init
+git status
+git add . (starge)
+git commit -m "mensagem"
+git config --global user.email "flying@potato.com"
+git config --global user.name "Mr.Potato"
+git remote add origin [link]
+git push -u origin master
+
+ordem certa:
+git add
+git commit
+git push
